@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Sun Oct 01 21:30:05 2023
+# Process ID: 100
+# Current directory: C:/Users/usuario/gcd_algo/gcd_algo.runs/synth_1
+# Command line: vivado.exe -log top_gcd.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top_gcd.tcl
+# Log file: C:/Users/usuario/gcd_algo/gcd_algo.runs/synth_1/top_gcd.vds
+# Journal file: C:/Users/usuario/gcd_algo/gcd_algo.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source top_gcd.tcl -notrace
